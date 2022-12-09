@@ -6,8 +6,8 @@ I am trying to build out my config settings more formally after losing some the 
 
 Update this file in the location below for your platform.  After editing, be sure to make the file read-only, otherwise the game can reset the values.
 
-- ~/.steam/steam/steamapps/compatdata/1172470/pfx/drive_c/users/steamuser/Saved Games/Respawn/Apex/local
-- %HOME%/Saved Games/Respawn/Apex/local
+- `~/.steam/steam/steamapps/compatdata/1172470/pfx/drive_c/users/steamuser/Saved Games/Respawn/Apex/local`
+- `%HOME%/Saved Games/Respawn/Apex/local`
 
 ## autoexec.cfg
 
@@ -18,8 +18,8 @@ Update the launcher settings to run this file automatically.  For example, my cu
 ```
 This file should go in the following directories:
 
-- ~/.steam/steam/steamapps/common/Apex Legends/cfg
-- ??
+- `~/.steam/steam/steamapps/common/Apex Legends/cfg`
+- `C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg`
 
 ## Reference
 
