@@ -14,7 +14,7 @@ Update this file in the location below for your platform.  After editing, be sur
 Update the launcher settings to run this file automatically.  For example, my current start settings are below.  The last part starting at `+exec` tells Apex to load these at the start.
 
 ```
--fullscreen -dev +exec autoexec.cfg
+-fullscreen -dev -eac_launcher_settings SettingsDX12.json +exec autoexec.cfg
 ```
 This file should go in the following directories:
 
